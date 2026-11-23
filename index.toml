@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/iris.properties"
+hash = "b3aa1ba2e28371dbba7c1c9939915ceed9d5ecffb4f8f42152f9d121456988f5"
+preserve = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "87ad7102cdddf8746cd77e7db074c151caaeacb6f3e4270bf8b45e62277069b8"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f8faf7f799c2857ebe419c523c01a4ae22152bb899ad7b40a41929ed3a077aa3"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "7dc963e8c40a7f4a04817ae6be81ab517b2c5c24c965699225abf441b6b24851"
+metafile = true
+
+[[files]]
+file = "mods/nostalgia.pw.toml"
+hash = "cbcd4c643a4fc3eba14aee6ff298edd9918380bf6270be82e3eb7bf66eb1873b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "4a16e2c51a4848f2dccbd4244fbe163581ff247c7a45e52f304636e48f1b1590"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "58b0190e322c8b9b23b96af4e546f3d932fb4cd0d1d6db9a149201ccb34e8e9b"
+metafile = true
