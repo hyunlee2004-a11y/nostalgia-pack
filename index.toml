@@ -22,12 +22,22 @@ metafile = true
 
 [[files]]
 file = "mods/nostalgia.pw.toml"
-hash = "472a7b87f5ae233824a8b828e313ca99920a5774b30ee2166e60a9ce87458499"
+hash = "e9c8e194a6e5e81fe98b058a115fa77d66fec5e9f2aec65be719627b86cc2013"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "4a16e2c51a4848f2dccbd4244fbe163581ff247c7a45e52f304636e48f1b1590"
+metafile = true
+
+[[files]]
+file = "mods/xaero-s-minimap.pw.toml"
+hash = "43a671aa1ec850f98081dde76dcb89f07cecf2a697cc878cb34a33394a08574e"
+metafile = true
+
+[[files]]
+file = "mods/xaero-s-world-map.pw.toml"
+hash = "37bd22657f532baf3f731b8df27e2783793f034b759a1a1bf33547a5048d316b"
 metafile = true
 
 [[files]]
