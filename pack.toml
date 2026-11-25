@@ -1,11 +1,11 @@
 name = "Nostalgia"
 pack-format = "packwiz:1.1.0"
-version = "1.0.11"
+version = "1.0.12"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6a7096f45fbbb08e0aa0afbd3d3e6ae3d3596088175952f23f2c6b3faaf40b4b"
+hash = "02c385faf95c66189b03bca969a094e221b840bb02e273d9cabaad2ffb45a107"
 
 [versions]
 minecraft = "26.3"
