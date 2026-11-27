@@ -1,8 +1,8 @@
 name = "Nostalgia"
-filename = "nostalgia-1.0.18.jar"
+filename = "nostalgia-1.0.19.jar"
 side = "both"
 
 [download]
-url = "https://github.com/hyunlee2004-a11y/nostalgia-pack/releases/download/v1.0.18/nostalgia-1.0.18.jar"
+url = "https://github.com/hyunlee2004-a11y/nostalgia-pack/releases/download/v1.0.19/nostalgia-1.0.19.jar"
 hash-format = "sha1"
-hash = "288d3e52c4e41c38650dcb5b0bcd050b62d55bda"
+hash = "090cd025527fb238668538cc0e6fede92b7cba14"
