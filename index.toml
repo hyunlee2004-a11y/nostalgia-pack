@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/nostalgia.pw.toml"
-hash = "c361b0ccfc12cf754f28b7e19f1d46431b3cff7341a13df82d593434aa34ba14"
+hash = "ccfc9a05ee2d2f84147ce514417ad640f79fbf1010df00d42b9c1f7c70d65f2f"
 metafile = true
 
 [[files]]
